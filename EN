@@ -79,6 +79,8 @@ Information we may collect when you use our services
 
 1.2.3 Other relevant information. For you to better use our product or service, we will collect relevant information, for example, the friends list, group list information, and voice print. Also, if you choose to turn on "import contacts" feature we will encrypt name and phone number of your contacts and collect encrypted information in order to connect you with people you know who also use our service.
 
+1.2.4 our products are integrated with UMENG+SDK. UMENG+SDK needs to collect your Mac address, unique device ID (IMEI / Android ID / IDFA / openudid / guid, SIM card IMSI information) to provide statistical analysis services, and calibrate the accuracy of report data through geographical location to provide basic anti cheating ability.
+
 1.3
 Your information contained in the information shared by other users.
 
